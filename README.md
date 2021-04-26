@@ -1,7 +1,5 @@
 # cs4563project
 
-cs4563 machine learning project, utlizing three different machine learning algorithmns to perform predictions
-
 The topic that was chosen was video game sales. The reason behind this topic was because I enjoy playing games and wanted to do something related to something that I enjoy. 
 
 The data was gathered from kaggle, link is here:
