@@ -8,3 +8,5 @@ https://www.kaggle.com/gregorut/videogamesales
 
 So far the machine learning algorithmns that will be used so far is Support-Vector Machine to try and predict the platform of choice based on sales and year. It was then visualized with matplotlib. 
 
+More to come...
+
